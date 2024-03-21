@@ -1,9 +1,4 @@
 <!-- Replace the placeholder URLs and information with your own -->
-<style>
-  body {
-    font-family: 'Segoe Print', cursive; /* Set the desired font family */
-  }
-</style>
 
 <p align="center">
   
