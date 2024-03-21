@@ -1,6 +1,6 @@
 <!-- Replace the placeholder URLs and information with your own -->
 
-<img src="[https://imgur.com/a/Mucp9LN]"/>
+<img src="https://imgur.com/a/Mucp9LN" />
 
 
 <p align="center">
