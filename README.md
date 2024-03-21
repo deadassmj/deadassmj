@@ -26,8 +26,8 @@ An aspiring digital forensics enthusiast with a strong interest in cybersecurity
 <p align="center">Focusing on getting Google Cybersecrurity Professional Certificate</p>
 
 <h2 align="center"> Current Status Quo 📌 </h2>
-- 🔍 I’m looking for connections in <strong>Web Development and Cyber Security</strong> Industry.
-- 💬 Feel free to discuss with me about <strong>Web Development</strong>, <strong>Cyber Security</strong>, and <strong>Digital Forensics</strong>.
+<p align="center">- 🔍 I’m looking for connections in <strong>Web Development and Cyber Security</strong> Industry.
+- 💬 Feel free to discuss with me about <strong>Web Development</strong>, <strong>Cyber Security</strong>, and <strong>Digital Forensics</strong>.</p>
 <h2 align="center">Tech Stack 🖥️</h2>
 
 <p align="center">
