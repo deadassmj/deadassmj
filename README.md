@@ -38,6 +38,9 @@ An aspiring digital forensics enthusiast with a strong interest in cybersecurity
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white">
+  <img src="https://img.shields.io/badge/Notepad++-%230076D6.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=white" alt="Notepad++">
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
+</a>
   <!-- Add more badges for your tech stack -->
 </p>
 
@@ -70,12 +73,6 @@ An aspiring digital forensics enthusiast with a strong interest in cybersecurity
   <a href="https://discord.com/users/deadass_mj" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://notepad-plus-plus.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Notepad++-%230076D6.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=white" alt="Notepad++">
-</a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
-</a>
 </div>  
   <!-- Add more social links as needed -->
 </div>
