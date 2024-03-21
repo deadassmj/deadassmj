@@ -73,9 +73,7 @@ An aspiring digital forensics enthusiast with a strong interest in cybersecurity
 </div>  
   <!-- Add more social links as needed -->
 </div>
-----------------------------------------------------------
-### Profile Visits:
-![Visitor Count](https://profile-counter.glitch.me/{deadassmj}/count.svg)
+
 
 <!---
 deadassmj/deadassmj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
