@@ -14,10 +14,10 @@
 Aspiring digital forensics enthusiast with a strong interest in cybersecurity and investigations. Currently learning foundational concepts in digital forensics and acquiring skills in tools like EnCase and Autopsy. Excited about exploring data recovery techniques and understanding forensic analysis methodologies. Seeking opportunities to contribute to the digital forensics community and gain hands-on experience in real-world cases. Open to learning from experienced professionals and dedicated to continuous improvement in this fascinating field.
 </p>
 
-<h2 align="center">Goal for this month</h2>
+<h2 align="center">Goal for this month 🌟</h2>
 <p align="center">Focusing on getting Google Cybersecrurity Professional Certificate</p>
 
-<h2 align="center"> Current Status Quo:</h2>
+<h2 align="center"> Current Status Quo 📌 </h2>
 <p align="center">🔍 I’m looking for connections in Web Development and Cyber Security Industry.</p>
 <p align="center">💬 Feel free to discuss with me about Web Development, Cyber Security, and Digital Forensics.</p>
 
@@ -41,7 +41,7 @@ Aspiring digital forensics enthusiast with a strong interest in cybersecurity an
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deadassmj&theme=radical&hide_border=false">
 </p>
 
-<h2 align="center">Socials</h2>
+<h2 align="center">Socials 📎</h2>
 
 
 <div align="center">
