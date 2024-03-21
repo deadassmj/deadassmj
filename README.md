@@ -1,15 +1,10 @@
 <!-- Replace the placeholder URLs and information with your own -->
 
 <img src="https://i.imgur.com/mlIzAXp.jpeg" />
-<p align="center">
-  <img src="https://badges.pufler.dev/visits/deadassmj/deadassmj"/>
-  <img src="https://badges.pufler.dev/repos/deadassmj"/>
-  <img src="https://badges.pufler.dev/commits/monthly/deadassmj" />
-</p>
 <hr>
-<p align="center">
+<h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&weight=600&size=30&duration=2000&pause=1000&color=A1A1A1&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&lines=Hello+there%2C+curious+minds!" alt="Typing SVG" /></a>
-</p>
+</h1>
 
 <p align="center">
 An aspiring digital forensics enthusiast with a strong interest in cybersecurity and investigations. Currently learning foundational concepts in digital forensics and acquiring skills in tools like EnCase and Autopsy. Excited about exploring data recovery techniques and understanding forensic analysis methodologies. Seeking opportunities to contribute to the digital forensics community and gain hands-on experience in real-world cases. Open to learning from experienced professionals and dedicated to continuous improvement in this fascinating field.
