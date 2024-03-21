@@ -1,7 +1,8 @@
 <!-- Replace the placeholder URLs and information with your own -->
 
 <img src="https://i.imgur.com/mlIzAXp.jpeg" />
-  
+------------------------------------------- 
+
 <p align="center">
   <img src="https://badges.pufler.dev/visits/deadassmj/deadassmj"/>
   <img src="https://badges.pufler.dev/repos/deadassmj"/>
