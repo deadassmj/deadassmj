@@ -26,9 +26,8 @@ An aspiring digital forensics enthusiast with a strong interest in cybersecurity
 <p align="center">Focusing on getting Google Cybersecrurity Professional Certificate</p>
 
 <h2 align="center"> Current Status Quo 📌 </h2>
-<p align="center">🔍 I’m looking for connections in Web Development and Cyber Security Industry.</p>
-<p align="center">💬 Feel free to discuss with me about Web Development, Cyber Security, and Digital Forensics.</p>
-
+- 🔍 I’m looking for connections in <strong>Web Development and Cyber Security</strong> Industry.
+- 💬 Feel free to discuss with me about <strong>Web Development</strong>, <strong>Cyber Security</strong>, and <strong>Digital Forensics</strong>.
 <h2 align="center">Tech Stack 🖥️</h2>
 
 <p align="center">
@@ -74,6 +73,9 @@ An aspiring digital forensics enthusiast with a strong interest in cybersecurity
 </div>  
   <!-- Add more social links as needed -->
 </div>
+
+<div>### Profile Visits:
+![Visitor Count](https://profile-counter.glitch.me/{deadassmj}/count.svg)</div>
 
 <!---
 deadassmj/deadassmj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
