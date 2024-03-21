@@ -19,7 +19,7 @@ Aspiring digital forensics enthusiast with a strong interest in cybersecurity an
 
 <h2 align="center"> Current Status Quo:</h2>
 <p align="center">🔍 I’m looking for connections in Web Development and Cyber Security Industry.</p>
-<p align="center">💬 Feel free to discuss with me about Web Development, Cyber Security, and Digital Forensics</p>
+<p align="center">💬 Feel free to discuss with me about Web Development, Cyber Security, and Digital Forensics.</p>
 
 <h2 align="center">Tech Stack 🖥️</h2>
 
