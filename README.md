@@ -1,4 +1,9 @@
 <!-- Replace the placeholder URLs and information with your own -->
+<style>
+  body {
+    font-family: 'Segoe Print', cursive; /* Set the desired font family */
+  }
+</style>
 
 <p align="center">
   
@@ -31,7 +36,7 @@ Aspiring digital forensics enthusiast with a strong interest in cybersecurity an
   <!-- Add more badges for your tech stack -->
 </p>
 
-<h2 align="center">My Github Stats ⚖️</h2>
+<h2 align="center">My Github Status ⚖️</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deadassmj&show_icons=true&theme=radical">
