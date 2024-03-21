@@ -1,0 +1,52 @@
+<!-- Replace the placeholder URLs and information with your own -->
+
+<p align="center">
+  
+</p>
+
+<p align="center">
+  <img src="https://badges.pufler.dev/visits/deadassmj/deadassmj"/>
+  <img src="https://badges.pufler.dev/repos/deadassmj"/>
+  <img src="https://badges.pufler.dev/commits/monthly/deadassmj" />
+</p>
+
+<p align="center">
+  Aspiring digital forensics enthusiast with a strong interest in cybersecurity and investigations. Currently learning foundational concepts in digital forensics and acquiring skills in tools like EnCase and Autopsy. Excited about exploring data recovery techniques and understanding forensic analysis methodologies. Seeking opportunities to contribute to the digital forensics community and gain hands-on experience in real-world cases. Open to learning from experienced professionals and dedicated to continuous improvement in this fascinating field.
+</p>
+
+<h2 align="center">Goal for this month</h2>
+focused on getting Google Cybersecrurity Professional Certificate
+
+<p align="center">
+ 
+
+<h2 align="center">Tech Stack 🖥️</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <!-- Add more badges for your tech stack -->
+</p>
+
+<h2 align="center">My Github Stats ⚖️</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sec-fortress&show_icons=true&theme=radical">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sec-fortress&theme=radical&hide_border=false">
+</p>
+
+<h2 align="center">Let's Connect!</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="deadassmj">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/your-github-profile" target="deadassmj">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <!-- Add more social links as needed -->
+</div>
+
+<!---
+deadassmj/deadassmj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
