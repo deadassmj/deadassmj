@@ -15,6 +15,13 @@
 Aspiring digital forensics enthusiast with a strong interest in cybersecurity and investigations. Currently learning foundational concepts in digital forensics and acquiring skills in tools like EnCase and Autopsy. Excited about exploring data recovery techniques and understanding forensic analysis methodologies. Seeking opportunities to contribute to the digital forensics community and gain hands-on experience in real-world cases. Open to learning from experienced professionals and dedicated to continuous improvement in this fascinating field.
 </p>
 
+<h2 align="center">Message me 📧</h2>
+<div align="center">
+<a href="mailto:meljenbayaban31@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="meljenbayaban31@gmail.com">
+</a>
+</div>
+  
 <h2 align="center">Goal for this month 🌟</h2>
 <p align="center">Focusing on getting Google Cybersecrurity Professional Certificate</p>
 
