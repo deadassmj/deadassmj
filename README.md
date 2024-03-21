@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  Aspiring digital forensics enthusiast with a strong interest in cybersecurity and investigations. Currently learning foundational concepts in digital forensics and acquiring skills in tools like EnCase and Autopsy. Excited about exploring data recovery techniques and understanding forensic analysis methodologies. Seeking opportunities to contribute to the digital forensics community and gain hands-on experience in real-world cases. Open to learning from experienced professionals and dedicated to continuous improvement in this fascinating field.
+Aspiring digital forensics enthusiast with a strong interest in cybersecurity and investigations. Currently learning foundational concepts in digital forensics and acquiring skills in tools like EnCase and Autopsy. Excited about exploring data recovery techniques and understanding forensic analysis methodologies. Seeking opportunities to contribute to the digital forensics community and gain hands-on experience in real-world cases. Open to learning from experienced professionals and dedicated to continuous improvement in this fascinating field.
 </p>
 
 <h2 align="center">Goal for this month</h2>
-focused on getting Google Cybersecrurity Professional Certificate
+<p align="center">Focusing on getting Google Cybersecrurity Professional Certificate</p>
 
 <p align="center">
  
@@ -24,14 +24,18 @@ focused on getting Google Cybersecrurity Professional Certificate
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white">
   <!-- Add more badges for your tech stack -->
 </p>
 
 <h2 align="center">My Github Stats ⚖️</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sec-fortress&show_icons=true&theme=radical">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sec-fortress&theme=radical&hide_border=false">
+  <img src="https://github-readme-stats.vercel.app/api?username=deadassmj&show_icons=true&theme=radical">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deadassmj&theme=radical&hide_border=false">
 </p>
 
 <h2 align="center">Let's Connect!</h2>
