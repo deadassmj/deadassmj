@@ -54,6 +54,12 @@ Aspiring digital forensics enthusiast with a strong interest in cybersecurity an
 <a href="https://www.tiktok.com/@synthsavvy_mj?_t=8krP9rqEJeM&_r=1" target="_blank">
 <img src="https://img.shields.io/badge/tiktok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white">
 </a>  
+  <a href="https://www.facebook.com/ccoolasfmj" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://discord.com/users/deadass_mj" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </div>  
   <!-- Add more social links as needed -->
 </div>
