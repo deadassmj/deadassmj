@@ -40,13 +40,21 @@ Aspiring digital forensics enthusiast with a strong interest in cybersecurity an
 
 <h2 align="center">Let's Connect!</h2>
 
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="deadassmj">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/your-github-profile" target="deadassmj">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+<a href="https://www.linkedin.com/in/deadassmj" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/deadassmj" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/deadassmj" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.tiktok.com/@synthsavvy_mj?_t=8krP9rqEJeM&_r=1" target="_blank">
+<img src="https://img.shields.io/badge/tiktok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white">
+</a>  
+</div>  
   <!-- Add more social links as needed -->
 </div>
 
