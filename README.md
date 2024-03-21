@@ -17,8 +17,9 @@ Aspiring digital forensics enthusiast with a strong interest in cybersecurity an
 <h2 align="center">Goal for this month</h2>
 <p align="center">Focusing on getting Google Cybersecrurity Professional Certificate</p>
 
-<p align="center">
- 
+<h2 align="center"> Current Status Quo:</h2>
+<p align="center">🔍 I’m looking for connections in Web Development and Cyber Security Industry.
+💬 Feel free to discuss with me about Web Development, Cyber Security, and NFT Projects.</p>
 
 <h2 align="center">Tech Stack 🖥️</h2>
 
@@ -40,7 +41,7 @@ Aspiring digital forensics enthusiast with a strong interest in cybersecurity an
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deadassmj&theme=radical&hide_border=false">
 </p>
 
-<h2 align="center">Let's Connect!</h2>
+<h2 align="center">Socials</h2>
 
 
 <div align="center">
