@@ -1,18 +1,15 @@
 <!-- Replace the placeholder URLs and information with your own -->
 
 <img src="https://i.imgur.com/mlIzAXp.jpeg" />
-
-
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&weight=600&size=30&duration=2000&pause=1000&color=A1A1A1&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&lines=Hello+there%2C+curious+minds!" alt="Typing SVG" /></a>
-</p>
   
-</p>
-
 <p align="center">
   <img src="https://badges.pufler.dev/visits/deadassmj/deadassmj"/>
   <img src="https://badges.pufler.dev/repos/deadassmj"/>
   <img src="https://badges.pufler.dev/commits/monthly/deadassmj" />
+</p>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&weight=600&size=30&duration=2000&pause=1000&color=A1A1A1&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&lines=Hello+there%2C+curious+minds!" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
