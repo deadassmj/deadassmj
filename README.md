@@ -1,5 +1,5 @@
 <!-- Replace the placeholder URLs and information with your own -->
-![Banner](https://drive.google.com/file/d/1KlqnN-xSBGom-E6lrs1juzY5LXhc7aa6/view?usp=sharing)
+![Banner](https://drive.google.com/file/d/1KlqnN-xSBGom-E6lrs1juzY5LXhc7aa6/view)
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&weight=600&size=30&duration=2000&pause=1000&color=A1A1A1&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&lines=Hello+there%2C+curious+minds!" alt="Typing SVG" /></a>
