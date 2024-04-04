@@ -18,7 +18,7 @@ An aspiring digital forensics enthusiast with a strong interest in cybersecurity
 </div>
   
 <h2 align="center">Goal for this month 🌟</h2>
-<p align="center">Focusing on getting Google Cybersecrurity Professional Certificate</p>
+<p align="center">Focusing on getting Google Cybersecurity Professional Certificate</p>
 
 <h2 align="center"> Current Status Quo 📌 </h2>
 <div align="center">
