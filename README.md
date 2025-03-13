@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-An aspiring digital forensics enthusiast with a strong interest in cybersecurity and investigations. Currently learning foundational concepts in digital forensics and acquiring skills in tools like EnCase and Autopsy. Excited about exploring data recovery techniques and understanding forensic analysis methodologies. Seeking opportunities to contribute to the digital forensics community and gain hands-on experience in real-world cases. Open to learning from experienced professionals and dedicated to continuous improvement in this fascinating field.
+An aspiring digital forensics enthusiast with a strong interest in cybersecurity and investigations. Currently learning foundational concepts in digital forensics and acquiring skills in tools like EnCase and Autopsy. Seeking opportunities to contribute to the digital forensics community and gain hands-on experience in real-world cases. Open to learning from experienced professionals and dedicated to continuous improvement in this fascinating field.
 </p>
 
 <h2 align="center">Message me 📧</h2>
